@@ -20,7 +20,7 @@ Thanks for stopping by — feel free to check out my projects 🙂
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-chavan-538980285) 
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:prashantdchavan25@gmail.com) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=black)](https://leetcode.com/https://leetcode.com/u/prashantdchavan25)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=black)](https://leetcode.com/https://leetcode.com/u/prashantdchavan25/)
 
 
 # 💻 Tech Stack:
