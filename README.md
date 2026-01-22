@@ -1,5 +1,21 @@
 # 💫 About Me:
-I am currently learning
+👋 Hi, I’m Prashant
+
+I’m a Computer Engineering student who enjoys working with data, problem-solving, and building useful projects. I like understanding how things work behind the scenes and improving my skills by actually building and experimenting.
+
+I’ve worked on projects related to data analysis, machine learning, and backend development, and I’m always trying to learn something new—whether it’s a better way to analyze data, write cleaner code, or solve problems more efficiently.
+
+Right now, I’m focusing on:
+
+Data analysis and visualization
+
+Machine learning basics and practical projects
+
+Improving my problem-solving and coding skills
+
+I believe in learning step by step, staying consistent, and growing through real-world practice.
+
+Thanks for stopping by — feel free to check out my projects 🙂
 
 
 ## 🌐 Socials:
